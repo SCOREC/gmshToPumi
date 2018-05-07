@@ -21,7 +21,7 @@ Create the models and meshes by running make; `make`.
 
 Thanks to @bgranzow for the example and @ibaned for gmodel. 
 
-notch2D.cpp` and `Makefile` are from 
+`notch2D.cpp` and `Makefile` are from 
 
 https://github.com/bgranzow/goal/blob/7fa770bf6bfd7c2bc92210610e0c6a8fce2b8804/example/mesh/notch2D/notch2D.cpp
 
